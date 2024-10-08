@@ -1,5 +1,5 @@
-- 👋 Hi, I’m eliya
-- 👀 I’m interested in Old things
+- 🤓 Hi, I’m Ali Ghodrati (Eliya)
+"Keep it between us: I am not good at writing such things at all"
 
 <!---
 eliyastudio1388/eliyastudio1388 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
